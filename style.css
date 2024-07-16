@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+}
+.section-1{
+    background-image:url(./Img\ Overlay.png), url(./Img\ \(3\)\ \(1\).webp);
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover;
+    padding: 200px 0px;
+}
+.conteiner{}
+
+.s1-h1{
+    font-family: Roboto;
+font-size: 44px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0.06em;
+text-align: center;
+margin: 0 auto;
+/* Ефективні рішення для вашого бізнесу */
+width: 696px;
+color: #FFFFFF;
+}
+.s1-button{
+width: 216px;
+height: 50px;
+
+background-color: #2196F3;
+color: #FFFFFF;
+display: block;
+margin: 0 auto;
+/* Замовити послугу */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+letter-spacing: 0.06em;
+color: #FFFFFF;
+margin-top:30px;
+}
